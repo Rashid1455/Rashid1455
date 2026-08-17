@@ -1,81 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:6a11cb,100:00e5ff&height=180&section=header&text=Rashid%20Ali%20Soomro&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Applied%20Machine%20Learning&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:6A11CB,100:00E5FF&height=200&section=header&text=Rashid%20Ali%20Soomro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%C2%B7%20Applied%20Machine%20Learning&descAlignY=56&descSize=16" width="100%"/>
 
-### I turn messy real-world data into models people can actually use.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=580&lines=I+turn+messy+data+into+models+people+can+use.;Every+project+ships+as+a+working+app%2C+not+a+notebook.;Open+to+Data+Analyst+%2F+Data+Scientist+roles." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Python+%C2%B7+Pandas+%C2%B7+scikit-learn+%C2%B7+OpenCV;Every+project+ships+as+a+working+Streamlit+app;Open+to+Data+Analyst+%2F+Data+Scientist+roles" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/rashid-ali-619671357/"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=flat-square&logo=linkedin&logoColor=0a0a0f" alt="LinkedIn"/></a>
-<a href="mailto:rashidhussain473888@gmail.com"><img src="https://img.shields.io/badge/Email-6A11CB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://twitter.com/RashidH24260796"><img src="https://img.shields.io/badge/X-00E5FF?style=flat-square&logo=x&logoColor=0a0a0f" alt="X"/></a>
-<img src="https://img.shields.io/badge/Dadu,_Pakistan-6A11CB?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Open_to_work-00E5FF?style=flat-square&logoColor=0a0a0f" alt="Open to work"/>
+<a href="https://www.linkedin.com/in/rashid-ali-619671357/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
+<a href="mailto:rashidhussain473888@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
+<a href="https://twitter.com/RashidH24260796"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00E5FF" alt="X"/></a>
+<img src="https://img.shields.io/badge/Dadu,_Pakistan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=6A11CB" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=Rashid1455&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 👋 About
-
-IT graduate working across the full analysis loop — collecting and cleaning the data, training the model, then wrapping it in an interface someone non-technical can open and use. Nothing here stays stuck in a notebook.
-
-**What I'm working on right now**
-- Deepening time-series forecasting and model evaluation beyond accuracy
-- Rebuilding my computer-vision projects with cleaner, reproducible pipelines
-- Writing up each project's *methodology*, not just its code
-
-**What I'm looking for:** an entry-level Data Analyst / Data Scientist role — remote or on-site.
-
-<br/>
-
-## 🚀 Featured Work
-
-> Each project is live code you can clone and run — the app entry point is in the repo README.
+## `01` — Who I am
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 📊 [Students Performance Prediction](https://github.com/Rashid1455/Students-Performance-Prediction)
-Predicts Pass/Fail outcomes from study habits and attendance so teachers can flag at-risk students early.
+IT graduate working the **full analysis loop**: collect and clean the data, train and evaluate the model, then wrap it in an interface a non-technical person can actually open and use.
 
-`Python` `scikit-learn` `Pandas` `Streamlit`
+I care less about squeezing out the last 0.5% of accuracy and more about whether the output changes a decision someone was going to make anyway.
 
-</td>
-<td width="50%" valign="top">
+**Currently**
+- Going deeper on model evaluation beyond raw accuracy
+- Rebuilding my CV projects with reproducible pipelines
+- Documenting *methodology*, not just committing code
 
-### 🔎 [LinkedIn Job Scraper](https://github.com/Rashid1455/linkedin_scraper)
-Pulls live job listings into a filterable dashboard — no API key, no login, no paid tier.
-
-`Python` `BeautifulSoup` `Pandas` `Streamlit`
+**Open to** entry-level Data Analyst / Data Scientist roles — remote or on-site.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🙂 [Real-Time Emotion Detection](https://github.com/Rashid1455/Emotions_Detection)
-Reads facial emotion from a live webcam feed, frame by frame, in real time.
+```python
+class RashidAliSoomro:
 
-`Python` `OpenCV` `Deep Learning`
+    role     = "Data Analyst"
+    location = "Dadu, Sindh, PK"
+    focus    = ["EDA", "ML", "Computer Vision"]
+    ships    = "Streamlit apps, not notebooks"
 
-</td>
-<td width="50%" valign="top">
+    def daily_loop(self):
+        return [
+            "clean the data",
+            "question the data",
+            "model it",
+            "put it in someone's hands",
+        ]
 
-### 🔥 [Wildfire Detection System](https://github.com/Rashid1455/-Wildfire-Detection-System-)
-Image classifier that flags wildfire presence — built for early-warning use cases.
-
-`Python` `Computer Vision` `CNN`
+    def status(self):
+        return "open to work"
+```
 
 </td>
 </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## `02` — Featured Work
+
+<div align="center">
+
+<a href="https://github.com/Rashid1455/Students-Performance-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashid1455&repo=Students-Performance-Prediction&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=6A11CB&text_color=808080" width="49%" alt="Students Performance Prediction"/>
+</a>
+<a href="https://github.com/Rashid1455/linkedin_scraper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashid1455&repo=linkedin_scraper&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=6A11CB&text_color=808080" width="49%" alt="LinkedIn Job Scraper"/>
+</a>
+
+</div>
+
+<br/>
+
+| Project | The problem it solves | Stack |
+|:--|:--|:--|
+| **[Students Performance Prediction](https://github.com/Rashid1455/Students-Performance-Prediction)** | Flags at-risk students from study habits and attendance, early enough for a teacher to act | `scikit-learn` `Pandas` `Streamlit` |
+| **[LinkedIn Job Scraper](https://github.com/Rashid1455/linkedin_scraper)** | Turns live job listings into a filterable dashboard — no API key, no login, no paid tier | `BeautifulSoup` `Pandas` `Streamlit` |
+| **[Real-Time Emotion Detection](https://github.com/Rashid1455/Emotions_Detection)** | Reads facial emotion from a live webcam feed, frame by frame | `OpenCV` `Deep Learning` |
+| **[Wildfire Detection System](https://github.com/Rashid1455/-Wildfire-Detection-System-)** | Classifies wildfire presence in imagery for early-warning use | `CNN` `Computer Vision` |
+
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>&nbsp;More experiments</b></summary>
 <br/>
 
 - **[Face Detection](https://github.com/Rashid1455/FACE-DETECTION)** — Real-time face detection with OpenCV Haar cascades
@@ -83,55 +93,77 @@ Image classifier that flags wildfire presence — built for early-warning use ca
 
 </details>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🛠️ Tech Stack
+## `03` — Toolkit
 
 <div align="center">
 
-**Languages & Analysis**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00E5FF)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=00E5FF)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=for-the-badge&logo=numpy&logoColor=00E5FF)
-![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+**Analysis**<br/>
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00E5FF" height="45"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00E5FF" height="45"/>
 
-**Machine Learning & Vision**
+<br/>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0f?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0f?style=for-the-badge&logo=opencv&logoColor=00E5FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0f?style=for-the-badge&logo=plotly&logoColor=00E5FF)
+**Machine Learning & Vision**<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,opencv,tensorflow&theme=dark" height="45"/>
 
-**Shipping**
+<br/>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0f?style=for-the-badge&logo=streamlit&logoColor=00E5FF)
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=00E5FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0f?style=for-the-badge&logo=jupyter&logoColor=00E5FF)
+**Ship & Version**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00E5FF" height="45"/>
+
+<br/><br/>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📈 GitHub Activity
+## `04` — By the numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rashid1455&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=6A11CB&text_color=808080&count_private=true" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid1455&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=808080&langs_count=6" width="38%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rashid1455&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=6A11CB&text_color=808080&count_private=true&include_all_commits=true" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashid1455&hide_border=true&background=00000000&stroke=6A11CB&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=808080&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="Streak stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid1455&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=808080&langs_count=6" width="42%" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashid1455&bg_color=00000000&color=00E5FF&line=6A11CB&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Contribution graph"/>
 
 </div>
 
-<br/>
+<!--
+OPTIONAL — contribution-graph snake animation (Platane/snk).
+Add .github/workflows/snake.yml from https://github.com/Platane/snk, let it run once,
+then uncomment the block below.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rashid1455/Rashid1455/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+-->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <div align="center">
 
-## 💬 Let's talk
+## `05` — Let's talk
 
-I reply fastest on **[LinkedIn](https://www.linkedin.com/in/rashid-ali-619671357/)** — or email me at **rashidhussain473888@gmail.com**.<br/>
-If you're hiring, I'm happy to walk you through any project above in a 15-minute call.
+I reply fastest on **[LinkedIn](https://www.linkedin.com/in/rashid-ali-619671357/)**, or email **rashidhussain473888@gmail.com**.<br/>
+Hiring? I'll walk you through any project above in 15 minutes — code, decisions, and what I'd do differently.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:6a11cb,100:0a0a0f&height=90&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/rashid-ali-619671357/"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="Message me"/></a>
+<a href="mailto:rashidhussain473888@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-6A11CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,60:6A11CB,100:0D1117&height=110&section=footer" width="100%"/>
 
 </div>
