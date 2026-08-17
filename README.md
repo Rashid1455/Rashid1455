@@ -1,109 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Rashid%20Ali%20Soomro&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:8e2de2,100:00fff5&height=230&section=header&text=Rashid%20Ali%20Soomro&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Science%20Enthusiast%20%7C%20ML%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+insights;Building+ML+apps+with+Python+%26+Streamlit;Data+Analyst+%7C+Data+Science+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Building+ML-powered+apps+with+Python+%26+Streamlit;Computer+Vision+%7C+NLP+%7C+Predictive+Modeling;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=black)
+<img src="https://img.shields.io/badge/Open%20to%20Work-00FFF5?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/📍_Dadu,_Pakistan-8E2DE2?style=for-the-badge&labelColor=0f0c29" />
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rashid1455&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Rashid1455?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&labelColor=black)
+<img src="https://komarev.com/ghpvc/?username=Rashid1455&color=00fff5&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Rashid1455?color=8e2de2&style=for-the-badge&label=FOLLOWERS&labelColor=0f0c29" />
 
 </div>
 
 <br/>
 
-## 👨‍💻 Who I Am
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00fff5&height=3&width=100%" />
 
-```typescript
-const rashid = {
-  title: "Data Analyst / Data Science Enthusiast",
-  stack: ["Python", "Pandas", "NumPy", "Scikit-learn", "Streamlit"],
-  launchedProjects: [
-    "Students-Performance-Prediction",
-    "linkedin_scraper",
-    "Emotions_Detection",
-    "Wildfire-Detection-System",
-    "FACE-DETECTION",
-    "Color-HSV-Detection"
-  ],
-  certifications: [],
-  status: "IT Graduate 🎓 | Focusing on Data Science 🎯",
-  openTo: "Data Analyst / Data Scientist roles"
-};
+## 👨‍💻 About Me
+
+```yaml
+name: Rashid Ali Soomro
+title: Data Analyst | Data Science Enthusiast
+education: IT Graduate 🎓
+location: Dadu, Pakistan 🇵🇰
+focus_area: Machine Learning & Data-Driven Applications
+stack: [Python, Pandas, NumPy, Scikit-learn, Streamlit, OpenCV]
+current_projects:
+  - Students Performance Prediction (ML + Streamlit)
+  - LinkedIn Job Scraper (No API, No Login)
+  - Real-Time Emotion Detection (Deep Learning + Webcam)
+  - Wildfire Detection System (Computer Vision)
+  - Face Detection & Color HSV Detection
+looking_for: Data Analyst / Data Scientist opportunities
+fun_fact: "I turn messy data into clear decisions 📈"
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff5,100:8e2de2&height=3&width=100%" />
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 📊 Students Performance Prediction
+A machine learning web app built with Streamlit that predicts student academic performance (Pass/Fail) using study habits, attendance, and other behavioral factors.
 
-[![Students-Performance-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Rashid1455&repo=Students-Performance-Prediction&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/Rashid1455/Students-Performance-Prediction)
+`Python` `Scikit-learn` `Pandas` `Streamlit`
 
-A comprehensive machine learning web application built with Streamlit that predicts student academic performance (Pass/Fail) based on study habits, attendance, and other factors.
+🔗 [View Repository](https://github.com/Rashid1455/Students-Performance-Prediction)
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| ML | Scikit-learn |
-| Data | Pandas, NumPy |
-| Interface | Streamlit |
+</td>
+<td width="50%">
 
-🔗 Code: [github.com/Rashid1455/Students-Performance-Prediction](https://github.com/Rashid1455/Students-Performance-Prediction)
-
-<br/>
-
-### 🔍 LinkedIn Scraper
-
-[![linkedin_scraper](https://github-readme-stats.vercel.app/api/pin/?username=Rashid1455&repo=linkedin_scraper&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117)](https://github.com/Rashid1455/linkedin_scraper)
-
+### 🔍 LinkedIn Job Scraper
 A Streamlit web app that scrapes live job listings from LinkedIn — no API key, no login required.
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Data | Pandas |
-| Interface | Streamlit |
+`Python` `Web Scraping` `Pandas` `Streamlit`
 
-🔗 Code: [github.com/Rashid1455/linkedin_scraper](https://github.com/Rashid1455/linkedin_scraper)
+🔗 [View Repository](https://github.com/Rashid1455/linkedin_scraper)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 😃 Real-Time Emotion Detection
+An AI-powered system that transforms your webcam into a live emotion recognition engine using deep learning.
+
+`Python` `OpenCV` `Deep Learning`
+
+🔗 [View Repository](https://github.com/Rashid1455/Emotions_Detection)
+
+</td>
+<td width="50%">
+
+### 🔥 Wildfire Detection System
+A computer vision project focused on detecting wildfire risk/presence from image data.
+
+`Python` `Computer Vision`
+
+🔗 [View Repository](https://github.com/Rashid1455/-Wildfire-Detection-System-)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🙂 Face Detection
+A real-time face detection system built with OpenCV.
+
+`Python` `OpenCV`
+
+🔗 [View Repository](https://github.com/Rashid1455/FACE-DETECTION)
+
+</td>
+<td width="50%">
+
+### 🎨 Color HSV Detection
+A color detection and tracking tool using HSV color space filtering.
+
+`Python` `OpenCV`
+
+🔗 [View Repository](https://github.com/Rashid1455/Color-HSV-Detection)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00fff5&height=3&width=100%" />
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://skillicons.dev/icons?i=py)
+![Python](https://img.shields.io/badge/Python-00FFF5?style=for-the-badge&logo=python&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-8E2DE2?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-00FFF5?style=for-the-badge&logo=numpy&logoColor=black)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-8E2DE2?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-00FFF5?style=for-the-badge&logo=opencv&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-8E2DE2?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-00FFF5?style=for-the-badge&logo=jupyter&logoColor=black)
+![Git](https://img.shields.io/badge/Git-8E2DE2?style=for-the-badge&logo=git&logoColor=white)
 
-**Data & ML**
+</div>
 
-![Pandas](https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=black)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-7dd3fc?style=for-the-badge&logo=scikitlearn&logoColor=black)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff5,100:8e2de2&height=3&width=100%" />
 
-**Dev Tools**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-7dd3fc?style=for-the-badge&logo=streamlit&logoColor=black)
-
-<br/>
-
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rashid1455&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc&bg_color=0d1117&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid1455&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rashid1455&show_icons=true&theme=nord&border_color=00fff5&title_color=00fff5&text_color=c9d1d9&icon_color=8e2de2&bg_color=0d1117&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid1455&layout=compact&theme=nord&border_color=00fff5&title_color=00fff5&text_color=c9d1d9&bg_color=0d1117" width="42%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Rashid1455&theme=nord&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Rashid1455&theme=nord&border=00fff5&background=0d1117&ring=8e2de2&fire=00fff5&currStreakLabel=00fff5" width="70%"/>
 
 <br/><br/>
 
@@ -111,20 +150,24 @@ A Streamlit web app that scrapes live job listings from LinkedIn — no API key,
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashid1455&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashid1455&theme=nord&hide_border=true&color=00fff5&line=8e2de2&point=ffffff&area=true&area_color=00fff5" width="95%"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:00fff5&height=3&width=100%" />
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rashid-ali-619671357/)
-[![X](https://img.shields.io/badge/X-7dd3fc?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/RashidH24260796)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rashidhussain473888@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFF5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rashid-ali-619671357/)
+[![X](https://img.shields.io/badge/X-8E2DE2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/RashidH24260796)
+[![Email](https://img.shields.io/badge/Email-00FFF5?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rashidhussain473888@gmail.com)
+
+<br/>
+
+*"Data is the new oil — I refine it into insight."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff5,100:8e2de2&height=120&section=footer" width="100%"/>
