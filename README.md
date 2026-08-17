@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:6a11cb,100:00e5ff&height=200&section=header&text=Rashid%20Ali%20Soomro&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:6a11cb,100:00e5ff&height=190&section=header&text=Rashid%20Ali%20Soomro&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%C2%B7%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Turning+raw+data+into+decisions;Building+ML+apps+with+Python+%2B+Streamlit;IT+Graduate+%7C+Open+to+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=I+turn+raw+data+into+decisions;Building+ML+apps+with+Python+%2B+Streamlit;IT+Graduate+%C2%B7+Open+to+work" alt="Typing SVG" />
 
 <br/>
 
@@ -17,48 +17,20 @@
 
 ## About
 
-I'm an IT graduate from Dadu, Pakistan, focused on data analysis and applied machine learning. I like taking messy, real-world data and turning it into models and tools people can actually use — usually shipped as a simple Streamlit app rather than left in a notebook.
+I'm an IT graduate from Dadu, Pakistan, focused on data analysis and applied machine learning. I like taking messy, real-world data and turning it into models and tools people can actually use — usually shipped as a working Streamlit app rather than left in a notebook.
 
-**Currently:** open to Data Analyst / Data Scientist roles, and building out my portfolio one project at a time.
+**Currently:** open to Data Analyst / Data Scientist roles.
 
 <br/>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Students Performance Prediction](https://github.com/Rashid1455/Students-Performance-Prediction)**
-ML web app that predicts Pass/Fail outcomes from study habits and attendance data.
-`Python` `Scikit-learn` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-**[LinkedIn Job Scraper](https://github.com/Rashid1455/linkedin_scraper)**
-Scrapes live LinkedIn job listings — no API key or login required.
-`Python` `Pandas` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Real-Time Emotion Detection](https://github.com/Rashid1455/Emotions_Detection)**
-Turns a webcam feed into a live facial emotion recognition engine.
-`Python` `OpenCV` `Deep Learning`
-
-</td>
-<td width="50%" valign="top">
-
-**[Wildfire Detection System](https://github.com/Rashid1455/-Wildfire-Detection-System-)**
-Computer vision project for identifying wildfire presence in image data.
-`Python` `Computer Vision`
-
-</td>
-</tr>
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| **[Students Performance Prediction](https://github.com/Rashid1455/Students-Performance-Prediction)** | ML web app predicting Pass/Fail from study habits & attendance | `Python` `Scikit-learn` `Streamlit` |
+| **[LinkedIn Job Scraper](https://github.com/Rashid1455/linkedin_scraper)** | Scrapes live LinkedIn job listings — no API key or login needed | `Python` `Pandas` `Streamlit` |
+| **[Real-Time Emotion Detection](https://github.com/Rashid1455/Emotions_Detection)** | Live facial emotion recognition from a webcam feed | `Python` `OpenCV` `Deep Learning` |
+| **[Wildfire Detection System](https://github.com/Rashid1455/-Wildfire-Detection-System-)** | Computer vision model for detecting wildfire presence in images | `Python` `Computer Vision` |
 
 <details>
 <summary><b>More projects</b></summary>
@@ -97,12 +69,10 @@ Computer vision project for identifying wildfire presence in image data.
 
 <br/>
 
-## Let's Connect
-
 <div align="center">
 
-I'm always happy to talk data, ML, or opportunities — reach out on any of the links above.
+**Let's connect** — reach out on LinkedIn, X, or email above.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:6a11cb,100:0a0a0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:6a11cb,100:0a0a0f&height=90&section=footer" width="100%"/>
