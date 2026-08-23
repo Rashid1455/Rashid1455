@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Rashid1455's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
 # 💫 About Me:
 🔭 I’m currently working on AI-powered applications, LLM chatbots, and end-to-end machine learning projects.<br>🧑‍🤝‍🧑 I’m looking to collaborate on Machine Learning, Computer Vision, Generative AI, and Data Science projects.<br>🤝 I’m looking for help with MLOps, scalable AI deployment, advanced LLM applications, and production-ready ML systems.<br>🌱 I’m currently learning Applied Machine Learning, Generative AI, LLMs, Data Engineering, and advanced Deep Learning.<br>💬 Ask me about Python, Machine Learning, Streamlit, OpenCV, Data Analysis, Computer Vision, and building AI applications.<br>⚡ Fun fact: I build AI projects that can predict student performance, detect emotions and wildfires, scrape job opportunities, and even power AI chat assistants.
 
