@@ -22,15 +22,17 @@
 
 ```python
 class RashidAliSoomro:
-    location   = "Dadu, Sindh, Pakistan 🇵🇰"
-    role       = "IT Graduate · Data Analyst · AI/ML Engineer"
-    focus      = ["Computer Vision", "OCR & Document AI", "RAG / LLM apps", "Data Automation"]
-    shipping   = "Grounded RAG knowledge base with cited answers (FastAPI + pgvector)"
-    learning   = ["MLOps", "Model deployment at scale", "Advanced deep learning"]
-    available  = "Freelance & collaboration — let's build something that sees."
+    location  = "Dadu, Sindh, Pakistan 🇵🇰"
+    role      = "IT Graduate · Data Analyst · AI/ML Engineer"
+    focus     = ["Computer Vision", "OCR & Document AI",
+                 "RAG / LLM apps", "Data Automation"]
+    shipping  = "Grounded RAG with cited answers"
+    learning  = ["MLOps", "Deployment at scale", "Deep learning"]
+    available = "Freelance & collaboration"
 
     def fun_fact(self):
-        return "I've built models that spot wildfires, read résumés, and recognise emotions."
+        return ("My models spot wildfires, read résumés "
+                "and recognise emotions.")
 ```
 
 ---
