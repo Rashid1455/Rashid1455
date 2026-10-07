@@ -1,34 +1,134 @@
-<img alt="Rashid1455's GitHub profile" src="dark_mode.svg" width="100%" />
+<div align="center">
 
+<img src="./header.svg" alt="Rashid Ali Soomro — AI/ML Engineer" width="100%" />
 
+<a href="https://github.com/Rashid1455">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=I+teach+machines+to+see+and+read.;YOLO+%C2%B7+OpenCV+%C2%B7+OCR+%C2%B7+RAG+%C2%B7+Streamlit;From+raw+pixels+to+production+apps.;Open+to+freelance+projects+%F0%9F%9A%80" alt="Typing intro" />
+</a>
 
+<br/>
 
+<a href="https://www.linkedin.com/in/rashid-ali-619671357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/RashidH24260796"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://medium.com/@rashidhussain473888"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:rashidhussain473888@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Rashid1455&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views"/>
 
-
-# 💫 About Me:
-🔭 I’m currently working on AI-powered applications, LLM chatbots, and end-to-end machine learning projects.<br>🧑‍🤝‍🧑 I’m looking to collaborate on Machine Learning, Computer Vision, Generative AI, and Data Science projects.<br>🤝 I’m looking for help with MLOps, scalable AI deployment, advanced LLM applications, and production-ready ML systems.<br>🌱 I’m currently learning Applied Machine Learning, Generative AI, LLMs, Data Engineering, and advanced Deep Learning.<br>💬 Ask me about Python, Machine Learning, Streamlit, OpenCV, Data Analysis, Computer Vision, and building AI applications.<br>⚡ Fun fact: I build AI projects that can predict student performance, detect emotions and wildfires, scrape job opportunities, and even power AI chat assistants.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100012552962856) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ra473888/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rashid-ali-619671357/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@rashidhussain473888) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/rashidhussain473888/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Rashid-Hussain-586) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/AlternativeOwn4057/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RashidH24260796) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Rashid-Hussain-the-vuer) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rashid Ali Soomro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:RASHIDHUSSAIN473888@GMAIL.COM) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rashid1455&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rashid1455&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rashid1455&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rashid1455&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rashid1455&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rashid1455&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `> whoami`
+
+```python
+class RashidAliSoomro:
+    location   = "Dadu, Sindh, Pakistan 🇵🇰"
+    role       = "IT Graduate · Data Analyst · AI/ML Engineer"
+    focus      = ["Computer Vision", "OCR & Document AI", "RAG / LLM apps", "Data Automation"]
+    shipping   = "Grounded RAG knowledge base with cited answers (FastAPI + pgvector)"
+    learning   = ["MLOps", "Model deployment at scale", "Advanced deep learning"]
+    available  = "Freelance & collaboration — let's build something that sees."
+
+    def fun_fact(self):
+        return "I've built models that spot wildfires, read résumés, and recognise emotions."
+```
+
+---
+
+### 🧪 Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📚 [Sourceboard — RAG Knowledge Base](https://github.com/Rashid1455/Source_Board-Production-RAG-Knowledge-Base-SaaS)
+Upload documents, ask questions, get answers where **every claim is backed by a verbatim quote** — or an honest *"insufficient evidence"*.<br/>
+<sub>`FastAPI` `pgvector` `Postgres job queue` `Next.js` `Docker`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔍 [HireLens AI — Explainable Résumé Screening](https://github.com/Rashid1455/HireLens-AI-Explainable-resume-screening)
+Ranks PDF résumés against a job description with **transparent scores** and skill evidence, and strips protected attributes before scoring.<br/>
+<sub>`PyMuPDF` `scikit-learn` `TF-IDF` `Streamlit` `CI tests`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔥 [Wildfire Detection System](https://github.com/Rashid1455/-Wildfire-Detection-System-)
+YOLOv8 pipeline for early **fire & smoke detection** on images, video and webcam, with alerts.<br/>
+<sub>`YOLOv8` `OpenCV` `PyTorch` `Streamlit`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧾 [FolioIQ — Document Intelligence](https://github.com/Rashid1455/FolioIQ-intelligent-Document)
+Turns invoices & receipts into **structured, reviewable records** with CSV/JSON export.<br/>
+<sub>`Next.js` `TypeScript` `Cloudflare D1/R2` `pdf.js`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📉 [Customer Churn Prediction](https://github.com/Rashid1455/Customer-Churn-Prediction)
+Upload any customer table → compare 4 models → **score who's likely to leave**.<br/>
+<sub>`scikit-learn pipelines` `pandas` `Streamlit` `pytest`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 😄 [Real-Time Emotion Detection](https://github.com/Rashid1455/Emotions_Detection)
+Your webcam becomes a **live emotion recognition engine**.<br/>
+<sub>`DeepFace` `OpenCV` `TensorFlow`</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/Rashid1455?tab=repositories"><b>→ explore all repositories</b></a></p>
+
+---
+
+### 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi&theme=dark" alt="ML stack"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,nextjs,ts,cloudflare,githubactions,git,linux&theme=dark" alt="Engineering stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-scraping-4B8BBE?style=flat-square" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/OCR-PyMuPDF%20%7C%20pdf.js-7C3AED?style=flat-square" alt="OCR"/>
+  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Groq%20%7C%20Gemini-10A37F?style=flat-square" alt="LLMs"/>
+</p>
+
+---
+
+### 📊 Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Rashid1455&show_icons=true&hide_border=true&bg_color=0d1530&title_color=22d3ee&icon_color=a78bfa&text_color=c7d2fe" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rashid1455&layout=compact&hide_border=true&bg_color=0d1530&title_color=22d3ee&text_color=c7d2fe" height="165" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=Rashid1455&hide_border=true&background=0D1530&ring=22D3EE&fire=F0ABFC&currStreakLabel=22D3EE&sideLabels=C7D2FE&dates=5B6B99&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Need a model that can see, read, or predict?** &nbsp;·&nbsp; [Let's talk →](mailto:rashidhussain473888@gmail.com)
+
+<sub>`> process finished with exit code 0` · thanks for scanning 👀</sub>
+
+</div>
